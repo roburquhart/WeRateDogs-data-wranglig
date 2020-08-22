@@ -1,4 +1,4 @@
-# WeRateDogs-data-wranglig
+# WeRateDogs-data-wrangling
 This repo contains files used for completion of the WeRateDogs data wrangling assignment as part of Udacity's Data Analyst Nanodegree
 
 The requirement was to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. It required
